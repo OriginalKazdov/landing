@@ -1,0 +1,15 @@
+.btn-custom-primary {
+  display: inline-block;
+  background-color: #731963;
+  padding: 16px 30px;
+  border-radius: 35px;
+  color: white;
+  transition: background 0.3s, color 0.3s;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn-custom-primary:hover {
+  background: #FFFDFD;
+  color: #731963;
+}
